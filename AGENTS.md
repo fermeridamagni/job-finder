@@ -2,6 +2,18 @@
 
 This project is a Job Finder application specifically designed to help @fermeridamagni find a job.
 
+```txt
+Soy Fernando Merida Magni, tengo 19 años, 4 años aprendiendo y desarrollando software, y soy de México. Actualmente estoy estudiando la carrera de Ingeniería en Sistemas Computacionales en el Instituto Politecnico Nacion en ESCOM. Me considero una persona responsable, autodidacta y con un gran manejo de software.
+
+La meta es conseguir un trabajo Remoto/Híbrido en el que pueda desarrollarse profesionalmente, obtener experiencia, mantenerme y crecer como persona.
+
+Puedes encontrar más información sobre mi en:
+- LinkedIn: https://linkedin.com/in/fermeridamagni/
+- GitHub: https://github.com/fermeridamagni
+- Mi página profesional (La empresa que estoy fundando): https://magni.dev
+- Mi CV actual (sin optimizar): ./assets/inital-cv.pdf
+```
+
 ## Rules
 
 - Document and explain why the code is for.
