@@ -5,7 +5,7 @@ This project is a Job Finder application specifically designed to help @fermerid
 ```txt
 Soy Fernando Merida Magni, tengo 19 años, 4 años aprendiendo y desarrollando software, y soy de México. Actualmente estoy estudiando la carrera de Ingeniería en Sistemas Computacionales en el Instituto Politecnico Nacion en ESCOM. Me considero una persona responsable, autodidacta y con un gran manejo de software.
 
-La meta es conseguir un trabajo Remoto/Híbrido en el que pueda desarrollarse profesionalmente, obtener experiencia, mantenerme y crecer como persona.
+La meta es conseguir un trabajo Remoto/Híbrido/Part-Time en México, Latam o USA (sí es híbrido debe de estar ubicado en CDMX o alrededores cercanos) en el que pueda desarrollarme profesionalmente, obtener experiencia, mantenerme y crecer como persona.
 
 Puedes encontrar más información sobre mi en:
 - LinkedIn: https://linkedin.com/in/fermeridamagni/
