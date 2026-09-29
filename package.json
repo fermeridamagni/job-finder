@@ -1,0 +1,17 @@
+{
+  "name": "job-finder",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "check": "ultracite check",
+    "fix": "ultracite fix"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "2.5.14",
+    "@types/bun": "^1.0.0",
+    "ultracite": "7.12.2"
+  },
+  "peerDependencies": {
+    "typescript": "^7.0.0"
+  }
+}
